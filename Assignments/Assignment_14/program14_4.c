@@ -6,7 +6,7 @@
 //  Description :   To check frequency of 4 in number
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
