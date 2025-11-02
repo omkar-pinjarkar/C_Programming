@@ -6,7 +6,7 @@
 //  Description :   To get facotrial of the input number
 //  Input :         int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
