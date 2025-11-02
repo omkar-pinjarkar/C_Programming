@@ -7,7 +7,7 @@
 //  Description :   To check number is divisible of 5
 //  Input :         int
 //  Output :        bool
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
