@@ -6,7 +6,7 @@
 //  Description :   Display factors in decreasing order
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
