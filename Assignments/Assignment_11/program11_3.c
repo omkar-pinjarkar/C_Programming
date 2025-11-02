@@ -6,7 +6,7 @@
 //  Description :   To display sum of all numbers between range
 //  Input :         int, int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
