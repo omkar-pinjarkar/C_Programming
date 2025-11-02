@@ -6,7 +6,7 @@
 //  Description :   To get multiplicaton of three numbers 
 //  Input :         int, int, int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
