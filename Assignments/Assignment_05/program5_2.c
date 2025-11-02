@@ -6,7 +6,7 @@
 //  Description :   To find larger number
 //  Input :         int, int
 //  Output :        int
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
