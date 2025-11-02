@@ -6,7 +6,7 @@
 //  Description :   To check negative and positive number
 //  Input :         int
 //  Output :        void
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
