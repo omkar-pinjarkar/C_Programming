@@ -6,7 +6,7 @@
 //  Description :   Display the multiplication of non factors
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
