@@ -7,7 +7,7 @@
 //  Description :   To check whether the value greater than 100 
 //  Input :         int
 //  Output :        bool
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          26/10/2025
 //
 //////////////////////////////////////////////////////////////
