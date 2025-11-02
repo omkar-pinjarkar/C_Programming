@@ -6,7 +6,7 @@
 //  Description :   To convert temperature fahrenheit to celsius
 //  Input :         float
 //  Output :        double
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
