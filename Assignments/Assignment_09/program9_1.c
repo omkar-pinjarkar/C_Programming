@@ -6,7 +6,7 @@
 //  Description :   To get pattern in form * # 
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          27/10/2025
 //
 //////////////////////////////////////////////////////////////
