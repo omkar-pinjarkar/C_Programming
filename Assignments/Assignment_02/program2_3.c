@@ -6,7 +6,7 @@
 //  Description :   Reply Hello and Demo as per user input
 //  Input :         int
 //  Output :        string
-//  Author :        Prajwal Sanjay Pansare
+//  Author :        Omkar Nandkishor Pinjarkar
 //  Date :          25/10/2025
 //
 //////////////////////////////////////////////////////////////
